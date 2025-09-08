@@ -9,8 +9,8 @@
 - [**docs/**](./docs/README.md) → Technical documentation
 
 ## Acknowledgments
-Developed for **Smart India Hackathon (SIH)** under the problem statement:
+Developed for **Smart India Hackathon (SIH)** under the problem statement:<br>
 **Secure Data Wiping for Trustworthy IT Asset Recycling** (ID: 25070)
 
-*Organization: Ministry of Mines*
+*Organization: Ministry of Mines*<br>
 *Department: JNARDDC*
